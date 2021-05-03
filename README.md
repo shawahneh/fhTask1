@@ -1,4 +1,4 @@
-# foothills-task1
+# foothill-task1
 
 ## Project setup
 ```
